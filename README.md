@@ -161,7 +161,7 @@ https://github.com/webspro-dev
 **GitHub:** https://github.com/webspro-dev
 --
 
-### 📩 **Есть задача или проблема с сайтом?**
+### 📩 **Связь со мной**
 
 
 [![Написать в Telegram](https://img.shields.io/badge/Написать_в_Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/webs_bro)
