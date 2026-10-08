@@ -8,6 +8,11 @@
 
 ---
 
+Есть задача или проблема с сайтом?
+
+[![Написать в Telegram](https://img.shields.io/badge/Написать_в_Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/webs_bro)
+
+--
 ## 👨‍💻 Основные направления
 
 ### 1С-Битрикс
@@ -96,22 +101,6 @@
 * техническая поддержка;
 * PHP / WordPress / OpenCart / Joomla.
 
-### 📩 Заказать разработку
-
-Есть задача или проблема с сайтом?
-
-[![Написать в Telegram](https://img.shields.io/badge/Написать_в_Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/webs_bro)
-
----
-
-## ❤️ Поддержать проект
-
-Если мои проекты или исходный код оказались полезными, можно поддержать дальнейшую разработку.
-
-**[☕ Поддержать проект](#)**
-
-Любая поддержка помогает развивать и публиковать новые решения для **PHP, Bitrix и Bitrix24**.
-
 
 ---
 
@@ -169,3 +158,11 @@ https://github.com/webspro-dev
 Если есть задача по **PHP, 1С-Битрикс, Bitrix24 или интеграции API**, можно связаться со мной и описать задачу.
 
 **GitHub:** https://github.com/webspro-dev
+--
+
+### 📩 Заказать разработку
+
+
+[![Написать в Telegram](https://img.shields.io/badge/Написать_в_Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/webs_bro)
+
+---
