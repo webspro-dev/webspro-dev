@@ -12,7 +12,7 @@
 
 [![Написать в Telegram](https://img.shields.io/badge/Написать_в_Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/webs_bro)
 
---
+---
 ## 👨‍💻 Основные направления
 
 ### 1С-Битрикс
